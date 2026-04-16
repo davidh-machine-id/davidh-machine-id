@@ -20,4 +20,4 @@ I'm always open to discussing the future of Machine Identities, Zero Trust, and 
 * **Expertise:** Solution Architecture • Security Automation
 
 ---
-*"Architecture is not just about how it looks, but how it works at 2:00 AM under load."*
+*"Architecture is not just about how it looks, but how it works at 2:00 AM under load."* -- Franklin Veaux
