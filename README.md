@@ -1,6 +1,6 @@
 # Hi, I'm David. 👋 
 
-## Staff Technical Product Engineer | Machine Identity | Empowering Zero Trust through Automated Identity Lifecycle
+## Senior Technical Product Engineer | Machine Identity | Empowering Zero Trust through Automated Identity Lifecycle
 
 I specialize in architecting secure, scalable ecosystems for the "non-human" (aka machine identity) world. As the ratio of machine identities to human identities continues to explode, I focus on bridging the gap between high-level security strategy and automated infrastructure execution.
 
